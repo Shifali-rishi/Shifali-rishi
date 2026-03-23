@@ -8,7 +8,7 @@ I am passionate about transforming raw data into meaningful insights using data 
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/shifali-rishi-38105a387)
 
 ---
 
