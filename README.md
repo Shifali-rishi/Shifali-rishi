@@ -1,15 +1,17 @@
-# Hi 👋 I'm Shifali
+# 🌸Hey there, I'm Shifali
 
 🎯 **Entry-Level Data Analyst**
 
+Welcome to my GitHub space💻
 I am passionate about transforming raw data into meaningful insights using data analysis and visualization tools.
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/shifali-rishi-38105a387)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shifali-rishi/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
 ---
 
 ## 🧠 Skills
